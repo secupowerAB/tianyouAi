@@ -8,7 +8,7 @@
 
 > 基于AI的英语作文生成器，帮助高中生学习英语写作 📝✨
 
-[在线演示](https://secupowerab.github.io/tianyouAi/) | [项目文档](./使用说明.md) | [演示视频](#)
+[在线演示]([https://secupowerab.github.io/tianyouAi/](https://secupowerab.github.io/tianyouAi/essay-generator-deepseek.html) | [项目文档](./使用说明.md) | [演示视频](#)
 
 ---
 
