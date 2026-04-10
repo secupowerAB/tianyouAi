@@ -22,7 +22,7 @@
 - **作者**: 张天佑
 - **学校**: 沈阳市第二十八中学 高一八班
 - **开发时间**: 2026年4月
-- **技术栈**: HTML5 + CSS3 + JavaScript + Claude API
+- **技术栈**: HTML5 + CSS3 + JavaScript + deepseek API
 
 ---
 
